@@ -1,3 +1,3 @@
 # Internship_simpleMAPElite
 
-See Simmary.pdf
+See Summary.pdf
